@@ -1,0 +1,9 @@
+/node_modules
+/dist
+/.angular
+/**/*.spec.ts
+
+karma.conf.js
+
+/src/polyfills.ts
+/src/test.ts
